@@ -1,0 +1,115 @@
+{
+    "liquidityScheduleUTC": {
+      "Monday": [
+        {
+          "startUTC": "11:20",
+          "endUTC": "11:40"
+        },
+        {
+          "startUTC": "22:40",
+          "endUTC": "23:59"
+        }
+      ],
+      "Tuesday": [
+        {
+          "startUTC": "08:55",
+          "endUTC": "11:05"
+        },
+        {
+          "startUTC": "22:55",
+          "endUTC": "23:59"
+        }
+      ],
+      "Wednesday": [
+        {
+          "startUTC": "01:45",
+          "endUTC": "02:10"
+        },
+        {
+          "startUTC": "04:40",
+          "endUTC": "05:15"
+        },
+        {
+          "startUTC": "07:05",
+          "endUTC": "07:25"
+        },
+        {
+          "startUTC": "09:45",
+          "endUTC": "12:35"
+        }
+      ],
+      "Thursday": [
+        {
+          "startUTC": "02:00",
+          "endUTC": "02:20"
+        },
+        {
+          "startUTC": "06:00",
+          "endUTC": "06:20"
+        },
+        {
+          "startUTC": "07:45",
+          "endUTC": "08:10"
+        },
+        {
+          "startUTC": "09:00",
+          "endUTC": "12:00"
+        },
+        {
+          "startUTC": "20:45",
+          "endUTC": "22:25"
+        }
+      ],
+      "Friday": [
+        {
+          "startUTC": "04:55",
+          "endUTC": "05:15"
+        },
+        {
+          "startUTC": "05:45",
+          "endUTC": "06:00"
+        },
+        {
+          "startUTC": "07:50",
+          "endUTC": "08:10"
+        },
+        {
+          "startUTC": "09:15",
+          "endUTC": "09:35"
+        },
+        {
+          "startUTC": "10:30",
+          "endUTC": "11:10"
+        },
+        {
+          "startUTC": "11:45",
+          "endUTC": "12:05"
+        },
+        {
+          "startUTC": "21:30",
+          "endUTC": "21:45"
+        },
+        {
+          "startUTC": "22:15",
+          "endUTC": "23:59"
+        }
+      ],
+      "Saturday": [
+        {
+          "startUTC": "00:00",
+          "endUTC": "16:15"
+        },
+        {
+          "startUTC": "17:20",
+          "endUTC": "23:59"
+        }
+      ],
+      "Sunday": [
+        {
+          "startUTC": "00:00",
+          "endUTC": "22:15"
+        }
+      ]
+    }
+  }
+  

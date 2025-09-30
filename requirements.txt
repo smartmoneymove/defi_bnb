@@ -1,0 +1,20 @@
+python-dotenv>=1.0.0 # Для чтения .env файла
+web3==6.15.1 # Для работы с блокчейном
+pandas>=2.0.0 # Для анализа данных
+scikit-learn>=1.3.0 # Для моделей машинного обучения
+python-telegram-bot>=20.0 # Для Telegram-бота
+requests # Может пригодиться для запросов к API
+numpy>=1.24.0
+ccxt>=4.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+pytest>=7.0.0
+black>=23.0.0
+isort>=5.12.0
+flake8>=6.0.0
+imbalanced-learn>=0.11.0
+gspread>=5.0.0
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0

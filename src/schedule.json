@@ -1,0 +1,98 @@
+{
+  "liquidityScheduleUTC": {
+    "Monday": [
+      {
+        "startUTC": "04:10",
+        "endUTC": "07:15"
+      },
+      {
+        "startUTC": "10:15",
+        "endUTC": "11:40"
+      },
+      {
+        "startUTC": "22:40",
+        "endUTC": "23:59"
+      }
+    ],
+    "Tuesday": [
+      {
+        "startUTC": "00:00",
+        "endUTC": "00:20"
+      },
+      {
+        "startUTC": "05:30",
+        "endUTC": "05:55"
+      },
+      {
+        "startUTC": "07:15",
+        "endUTC": "11:55"
+      },
+      {
+        "startUTC": "22:55",
+        "endUTC": "23:59"
+      }
+    ],
+    "Wednesday": [
+      {
+        "startUTC": "00:00",
+        "endUTC": "02:10"
+      },
+      {
+        "startUTC": "04:40",
+        "endUTC": "05:15"
+      },
+      {
+        "startUTC": "09:45",
+        "endUTC": "12:35"
+      },
+      {
+        "startUTC": "16:00",
+        "endUTC": "16:10"
+      },
+      {
+        "startUTC": "20:20",
+        "endUTC": "21:35"
+      }
+    ],
+    "Thursday": [
+      {
+        "startUTC": "07:45",
+        "endUTC": "12:00"
+      },
+      {
+        "startUTC": "20:45",
+        "endUTC": "22:25"
+      }
+    ],
+    "Friday": [
+      {
+        "startUTC": "04:55",
+        "endUTC": "07:35"
+      },
+      {
+        "startUTC": "08:30",
+        "endUTC": "09:35"
+      },
+      {
+        "startUTC": "10:15",
+        "endUTC": "12:10"
+      },
+      {
+        "startUTC": "22:35",
+        "endUTC": "23:59"
+      }
+    ],
+    "Saturday": [
+      {
+        "startUTC": "00:00",
+        "endUTC": "23:59"
+      }
+    ],
+    "Sunday": [
+      {
+        "startUTC": "00:00",
+        "endUTC": "22:15"
+      }
+    ]
+  }
+}

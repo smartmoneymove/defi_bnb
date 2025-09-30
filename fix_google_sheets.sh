@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo "🔧 Исправление Google Sheets API..."
+echo "=================================="
+
+echo "1. Откройте эти ссылки в браузере и включите API:"
+echo "   Google Sheets API: https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=410134711293"
+echo "   Google Drive API: https://console.developers.google.com/apis/api/drive.googleapis.com/overview?project=410134711293"
+echo ""
+echo "2. Нажмите 'Enable' для каждого API"
+echo "3. Дождитесь активации (1-2 минуты)"
+echo ""
+echo "4. Предоставьте доступ к таблице:"
+echo "   - Откройте: https://docs.google.com/spreadsheets/d/15yp8anIMPNFFqtD5p-YGlg5u8ewUHeDjluKXrCoGrYo/edit?gid=0#gid=0"
+echo "   - Нажмите 'Поделиться'"
+echo "   - Добавьте: service@usdc-cbbtc-data.iam.gserviceaccount.com"
+echo "   - Дайте права 'Редактор'"
+echo ""
+echo "5. После выполнения всех шагов запустите:"
+echo "   python src/google_sheets_logger.py"
+echo ""
+echo "✅ Готово! Теперь Google Sheets должен работать."
